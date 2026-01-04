@@ -1,6 +1,17 @@
-# Welcome to the UCLR HyperMile! 
+# Welcome to UCLR HyperMile! 
 
 Our team is a group of driven students passionate about green racing.
 We compete in the prestigious Shell Eco-marathon, one of the world’s leading student engineering competitions focused on energy optimisation.
-Our mission is to push the boundaries of fuel efficiency, we won the 1st Place of the Carbon Footprint Reduction Award in 2024, in addition to the Data and Telemetry Award in 2023!
 We are looking for talented students at UCL, across all year groups and departments, to build HyperMile’s next generation hydrogen-powered car for future competitions.
+
+### Competition Results
+#### SEM 2025
+• First valid H2 Prototype run - placed in 6th @ 338.7 km/m3
+• Carbon Footprint Reduction Off-track Award (1st Place)
+• Safety Leadership Off-track Award (2nd Place)
+
+#### SEM 2024
+• Carbon Footprint Reduction Award (1st Place)
+
+#### SEM 2023
+• Data and Telemetry Award (1st Place)
