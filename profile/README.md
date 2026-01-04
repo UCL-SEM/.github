@@ -7,7 +7,9 @@ We are looking for talented students at UCL, across all year groups and departme
 ### Competition Results
 #### SEM 2025
 • First valid H2 Prototype run - placed in 6th @ 338.7 km/m3
+
 • Carbon Footprint Reduction Off-track Award (1st Place)
+
 • Safety Leadership Off-track Award (2nd Place)
 
 #### SEM 2024
